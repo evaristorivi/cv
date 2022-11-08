@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -11,18 +11,17 @@
       "title": "SysAdmin Cloud",
       "description": "Sysadmin con experiencia en soporte L1, monitorización de servicios, operaciones y mantenimiento de infraestructuras Cloud y administración de servidores GNU-Linux y Windows.\n\nDesde el 2010 estuve trabajando en el sector audiovisual, concretamente en el ámbito de la post-producción digital, VFX y 3D. Siempre me he considerado un apasionado de la tecnología, pero durante estos años, descubrí además que la satisfacción y realización personal que experimentaba al solucionar problemas tecnológicos, era mil veces superior a la que sentía tras terminar una composición en el estudio, lo que hizo que reencaminase mi carrera profesional hacia la Administración de Sistemas, donde hoy por hoy, disfruto de cada reto, con la misma ilusión que el primer día.\n\nITIL 4, LPIC-1: Linux Administrator, Microsoft Certified: AZ-900 Microsoft Azure Fundamentals, AWS Certified Cloud Practitioner y AWS Certified Solutions Architect – Associate",
       "avatar": {
-        "alt": "1639416834308.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/24/435fcb7f-91bc-4fa5-a8a6-05b5c8826cdb_1639416834308.jpg"
+        "alt": "1651216956089.jpeg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/08/dbffd05a-3504-4cd6-9d04-7efffcacd843_1651216956089.jpeg"
       },
       "location": {
-        "notes": "Jerez de la Frontera"
+        "country": "España",
+        "region": "Andalucía",
+        "municipality": "Granada",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/evaristorivieccio/"
-      },
       {
         "type": "github",
         "URL": "https://github.com/evaristorivi"
@@ -34,6 +33,218 @@
       {
         "type": "other",
         "URL": "https://www.evaristorivieccio.es/"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/evaristorivieccio/"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish",
+        "level": "Limited working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Grafana",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Confluence",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS-Admin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Windows",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Lambda",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Moodle",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe Premiere Pro",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe Photoshop",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe After Effects",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Atlassian",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Apache",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Nginx",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Varnish",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Nagios",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS EC2",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "S3",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS CloudFront",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "VirtualBox",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Apache Tomcat",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Elasticsearch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Solr",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Aurora",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SaaS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Apple macOS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe Illustrator",
+          "type": "technology"
+        }
       }
     ]
   },
@@ -49,18 +260,23 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "Python",
-          "type": "technology"
-        },
-        {
           "name": "AWS",
           "type": "technology"
         },
         {
           "name": "Linux",
           "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Software Architect",
+        "SysAdmin"
       ]
-    }
+    },
+    "status": "searchingActively"
   }
 }

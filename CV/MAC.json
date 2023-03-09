@@ -9,7 +9,7 @@
       "name": "Evaristo R",
       "surnames": "Rivieccio Vega",
       "title": "SysAdmin Cloud",
-      "description": "Sysadmin con experiencia en soporte L1 y L2, monitorización de servicios, operaciones y mantenimiento de infraestructuras Cloud, administrando servidores GNU-Linux y Windows.\n\nDesde el 2010 estuve trabajando en el sector audiovisual, concretamente en el ámbito de la post-producción digital, VFX y 3D. Siempre me he considerado un apasionado de la tecnología, pero durante estos años, descubrí además que la satisfacción y realización personal que experimentaba al solucionar problemas tecnológicos, era mil veces superior a la que sentía tras terminar una composición en el estudio, lo que hizo que reencaminase mi carrera profesional hacia la Administración de Sistemas, donde hoy por hoy, disfruto de cada reto, con la misma ilusión que el primer día.\n\nITIL 4, LPIC-1: Linux Administrator, Microsoft Certified: AZ-900 Microsoft Azure Fundamentals, AWS Certified Cloud Practitioner y AWS Certified Solutions Architect – Associate",
+      "description": "",
       "avatar": {
         "alt": "1651216956089.jpeg",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/08/dbffd05a-3504-4cd6-9d04-7efffcacd843_1651216956089.jpeg"
@@ -54,7 +54,7 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "AWS",
+          "name": "Windows",
           "type": "technology"
         }
       },
@@ -66,13 +66,7 @@
       },
       {
         "skill": {
-          "name": "Grafana",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Linux",
+          "name": "Nginx",
           "type": "technology"
         }
       },
@@ -84,61 +78,7 @@
       },
       {
         "skill": {
-          "name": "Confluence",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "AWS-Admin",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Windows",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Lambda",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "WordPress",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Moodle",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Adobe Premiere Pro",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Adobe Photoshop",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Adobe After Effects",
           "type": "technology"
         }
       },
@@ -150,37 +90,55 @@
       },
       {
         "skill": {
-          "name": "Apache",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Nginx",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Varnish",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Nagios",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "AWS EC2",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "S3",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS-Admin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SaaS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Grafana",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Apple macOS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Lambda",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Confluence",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Moodle",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Solr",
           "type": "technology"
         }
       },
@@ -198,25 +156,13 @@
       },
       {
         "skill": {
-          "name": "Apache Tomcat",
+          "name": "Python",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Elasticsearch",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Solr",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
+          "name": "AWS",
           "type": "technology"
         }
       },
@@ -228,25 +174,79 @@
       },
       {
         "skill": {
-          "name": "Aurora",
+          "name": "MongoDB",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "SaaS",
+          "name": "Elasticsearch",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Apple macOS",
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Apache",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe Photoshop",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "Adobe Illustrator",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe After Effects",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe Premiere Pro",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Varnish",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS EC2",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Nagios",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Aurora",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Apache Tomcat",
           "type": "technology"
         }
       }
@@ -281,6 +281,6 @@
         "SysAdmin"
       ]
     },
-    "status": "searchingActively"
+    "status": "openToOffers"
   }
 }

@@ -1,27 +1,31 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
-    "language": "ES",
-    "MACVersion": "0.3"
+    "language": "EN",
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
       "name": "Evaristo R",
       "surnames": "Rivieccio Vega",
       "title": "SysAdmin Cloud",
-      "description": "",
+      "description": "Sysadmin con experiencia en soporte L1 y L2, monitorización de servicios, operaciones y mantenimiento de infraestructuras Cloud, administrando servidores GNU-Linux y Windows.\n\nDesde el 2010 estuve trabajando en el sector audiovisual, concretamente en el ámbito de la post-producción digital, VFX y 3D. Siempre me he considerado un apasionado de la tecnología, pero durante estos años, descubrí además que la satisfacción y realización personal que experimentaba al solucionar problemas tecnológicos, era mil veces superior a la que sentía tras terminar una composición en el estudio, lo que hizo que reencaminase mi carrera profesional hacia la Administración de Sistemas, donde hoy por hoy, disfruto de cada reto, con la misma ilusión que el primer día.\n\nITIL 4, LPIC-1: Linux Administrator, Microsoft Certified: AZ-900 Microsoft Azure Fundamentals, AWS Certified Cloud Practitioner y AWS Certified Solutions Architect – Associate",
       "avatar": {
-        "alt": "1651216956089.jpeg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/08/dbffd05a-3504-4cd6-9d04-7efffcacd843_1651216956089.jpeg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/11/08/dbffd05a-3504-4cd6-9d04-7efffcacd843_1651216956089.jpeg",
+        "alt": "1651216956089.jpeg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJfcIyLeb8cQ0Rcg1g0533WJI)",
         "country": "España",
         "region": "Andalucía",
-        "municipality": "Granada",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Granada"
       }
     },
     "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/evaristorivieccio/"
+      },
       {
         "type": "github",
         "URL": "https://github.com/evaristorivi"
@@ -33,112 +37,32 @@
       {
         "type": "other",
         "URL": "https://www.evaristorivieccio.es/"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/evaristorivieccio/"
       }
     ]
   },
   "knowledge": {
     "languages": [
       {
-        "name": "English",
+        "name": "EN",
+        "fullName": "Inglés",
         "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Windows",
+          "name": "AWS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Azure",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Nginx",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jira",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "WordPress",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Atlassian",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "S3",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "AWS-Admin",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SaaS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Grafana",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Apple macOS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Lambda",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Confluence",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Moodle",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Solr",
+          "name": "AWS Aurora",
           "type": "technology"
         }
       },
@@ -150,61 +74,19 @@
       },
       {
         "skill": {
-          "name": "VirtualBox",
+          "name": "AWS EC2",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Python",
+          "name": "AWS Lambda",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "AWS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MySQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Elasticsearch",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Linux",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Apache",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Adobe Photoshop",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Adobe Illustrator",
+          "name": "AWS-Admin",
           "type": "technology"
         }
       },
@@ -216,19 +98,97 @@
       },
       {
         "skill": {
+          "name": "Adobe Illustrator",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Adobe Photoshop",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Adobe Premiere Pro",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Varnish",
+          "name": "Apache",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "AWS EC2",
+          "name": "Apache Tomcat",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Apple macOS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Atlassian",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Confluence",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Elasticsearch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Grafana",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Moodle",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
           "type": "technology"
         }
       },
@@ -240,14 +200,76 @@
       },
       {
         "skill": {
-          "name": "Aurora",
+          "name": "Nginx",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Apache Tomcat",
+          "name": "Python",
           "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "S3",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SaaS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Solr",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Varnish",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "VirtualBox",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Windows",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Adaptability to change",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Attention to detail",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacity for self-management ",
+          "type": "practice"
         }
       }
     ]
@@ -256,8 +278,16 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/evaristorivieccio/"
+          "URL": "https://www.linkedin.com/in/evaristorivieccio/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/evaristorivi",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/EvaristoRivi",
+          "type": "twitter"
         }
       ]
     },
@@ -282,5 +312,9 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Trabajar con arquitecturas Cloud, preferentemente AWS, y en entornos GNU-Linux\nutilizando tecnologías que enriquezcan mi trayectoria profesional y me permitan\ncrecer.\n",
+    "goodPractices": "ITIL 4, LPIC-1: Linux Administrator, Microsoft Certified: AZ-900 Microsoft Azure Fundamentals, AWS Certified Cloud Practitioner y AWS Certified Solutions Architect – Associate"
   }
 }

@@ -121,7 +121,7 @@
       {
         "name": "EN",
         "fullName": "Inglés",
-        "level": "Limited working proficiency"
+        "level": "Professional working proficiency"
       },
       {
         "name": "ES",
@@ -399,6 +399,6 @@
       }
     ],
     "desiredJobDescription": "Trabajar con arquitecturas Cloud, preferentemente AWS, y en entornos GNU-Linux\nutilizando tecnologías que enriquezcan mi trayectoria profesional y me permitan\ncrecer.\n",
-    "goodPractices": "ITIL 4, LPIC-1: Linux Administrator, Microsoft Certified: AZ-900 Microsoft Azure Fundamentals, AWS Certified Cloud Practitioner y AWS Certified Solutions Architect – Associate"
+    "goodPractices": "Passionate about continuous learning, I have multiple certifications in cloud, system administration and service management:\n\nAWS Certified Solutions Architect - Professional\nAWS Certified Solutions Architect - Associate\nAWS Certified Cloud Practitioner\nAWS Well-Architected Proficient\n\nLPIC-2 - Linux Engineer\nLPIC-1 - Linux Administrator\n\nCertified Kubernetes Administrator (CKA)\n\nMicrosoft AZ-104 Certified Azure Administrator Associate\nMicrosoft 365 Certified: Fundamentals\nMicrosoft AI-900 Certified Azure AI Fundamentals\nMicrosoft AZ-900 Certified Azure Fundamentals\n\nITIL 4\n\nUltralight Pilot License ULM - MAF\nEU A1/A3 - A2 - STS Drone Pilot License"
   }
 }

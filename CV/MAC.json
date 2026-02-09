@@ -40,6 +40,48 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Pasiona"
+        },
+        "roles": [
+          {
+            "name": "Cloud Systems Administrator",
+            "startDate": "2022-03-01",
+            "challenges": [
+              {
+                "description": "L2 support and maintenance of educational technology services, within the Operations and Infrastructure team and in coordination with Architecture for Spain and LATAM, for the client \"Grupo SM\", developing the following main functions:\n\n- Production Deployments.\n- Infrastructure changes and improvements.\n- Service migrations between Clouds: AWS and Azure.\n- Performed tenant migration operations in Azure as part of a carve-out process.\n- Monitoring and maintenance of AWS Cloud infrastructure.\n- Incident resolution.\n- Support for other teams.\n- Ticket Management in Jira - Atlassian.\n- Preparation of reports, documentation, and procedures.\n- Definition of the RTO/RPO, and a complete DRP inventory of the environment.\n\nDevelopment of Cloud Solutions:\n- Designed maintenance mode and deployment orchestration systems (Lambda + Step Functions \n + CodeBuild + CodePipeline) for Spain/LATAM, fully automating deployments and reducing human errors.  \n\n- Disaster Recovery & Compliance: Automated DRP reporting\n\n- Designed and implemented a custom Golden AMI model with automated monthly patches across multiple environments/accounts, improving security and lifecycle management.  \n\n- Created automated Jira ticket systems for multi-cloud (AWS/Azure) alerts and secure AMI/Snapshot cleanup.  \n\n- Developed a Python Web App for on-demand temporary database copies (RDS/Aurora) with OAuth (Azure AD).  \n\n- Built automated monitoring/alerting for disks, broken Log Groups, .NET Core services, and EOL resources.  \n\n- Automated cost-saving alerts for unused resources (AWS/Azure) and enhanced Golden AMI processes.  \n\n- Developed a self-service Web Portal for IP authorization, eliminating manual cloud console access.  \n\n- Implemented auto-scaling systems for exam/holiday seasons with historical configuration tracking.  \n\n- Secured all AWS load balancers (Spain/LATAM) via automation.\n\n- Implemented RDS backup/copy systems and patching notifications via Lambda (Python)."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "Windows",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {

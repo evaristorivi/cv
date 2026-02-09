@@ -206,12 +206,6 @@
       },
       {
         "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "S3",
           "type": "technology"
         }
@@ -314,6 +308,20 @@
     "status": "openToOffers"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "AWS",
+        "type": "technology"
+      },
+      {
+        "name": "AWS EC2",
+        "type": "technology"
+      },
+      {
+        "name": "AWS-Admin",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "Trabajar con arquitecturas Cloud, preferentemente AWS, y en entornos GNU-Linux\nutilizando tecnologías que enriquezcan mi trayectoria profesional y me permitan\ncrecer.\n",
     "goodPractices": "ITIL 4, LPIC-1: Linux Administrator, Microsoft Certified: AZ-900 Microsoft Azure Fundamentals, AWS Certified Cloud Practitioner y AWS Certified Solutions Architect – Associate"
   }

@@ -79,6 +79,41 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "knowmad mood"
+        },
+        "roles": [
+          {
+            "name": "L1 System Support",
+            "startDate": "2019-06-01",
+            "finishDate": "2022-03-01",
+            "challenges": [
+              {
+                "description": "atSistemas (Now: knowmad mood)\nService monitoring and L1 multiclient support in Spain and LATAM within the Cloud, Middleware, and Systems community, with 24/7 incident prevention guard duties, supporting the Remote Server Administration and Analysis Service (SAAR).\n\nAdditionally, I performed the following functions:\n\n- Operations and maintenance of Cloud infrastructure in AWS and Microsoft Azure.\n- Maintenance of GNU/Linux and Windows Servers.\n- Metric analysis and report generation.\n- Implementation of Python scripts, Lambda functions (boto3, AWS), and customized alerts for Check_MK.\n- Ticket Management in Jira - Atlassian.\n- Collaboration in updating procedures in Confluence - Atlassian.\n- Back Office tasks."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Grafana",
+                "type": "technology"
+              },
+              {
+                "name": "Jira",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
